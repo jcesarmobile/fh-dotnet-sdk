@@ -3,3 +3,9 @@
 **/node_modules/*
 packages/*
 **/Components/*
+examples/*
+FHSDK/*
+FHSDKPhone/*
+FHXamarinAndroidSDK/*
+FHXamarinIOSSDK/*
+FHSDK/*
