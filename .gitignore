@@ -4,3 +4,9 @@
 packages/*
 **/Components/*
 .nuget/*
+examples/*
+FHSDK/*
+FHSDKPhone/*
+FHXamarinAndroidSDK/*
+FHXamarinIOSSDK/*
+FHSDK/*
